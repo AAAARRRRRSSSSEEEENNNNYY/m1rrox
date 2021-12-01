@@ -1,0 +1,12 @@
+body{
+    background-color: #77ACF1;
+}
+#header{
+    width: 1880px;    
+    height: 100px;   
+    background-color: blue; 
+    margin-bottom: 10px;    
+}
+h1{
+    margin-left: 400px;
+  }
